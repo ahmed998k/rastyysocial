@@ -1,0 +1,63 @@
+body{
+background-color: rgb(238, 238, 238);
+}
+
+
+
+
+.text{
+    font-family: monospace;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline 5px rgb(0, 0, 0);
+    color: rgb(75, 11, 11);
+}
+
+
+i{
+  color: rgb(255, 255, 255);
+  margin: 40px;
+ font-size: 30px;
+border: rgb(0, 0, 0) solid 5px;
+ height: 40px;
+ width: 190px;
+padding: 20px 30px;
+ text-align: center;
+ border-radius: 7px;
+background-color: rgb(75, 11, 11);
+display: inline-block;
+text-align: center;
+
+}
+
+
+
+
+.all_social{
+text-align: center;
+
+}
+
+
+a{
+    color: rgb(0, 0, 0);
+}
+
+
+footer{
+    background-color: rgb(75, 11, 11);
+    height: 35px;
+    width: auto;
+ text-align: center;
+ font-family: monospace;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: snow;
+    border: solid 2px black;
+}
+
+span{
+    color: black;
+    font-size: 15px;
+    text-decoration: underline 2px blue;
+}
